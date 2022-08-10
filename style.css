@@ -14,7 +14,7 @@ body{
 }
 
 .wrapper{
-    height: 260px;
+    height: 300px;
     background: #fff;
     max-width: 410px;
     border-radius: 8px;
@@ -23,7 +23,7 @@ body{
 }
 
 .wrapper.active{
-    height: 510px;
+    height: 600px;
 
 }
 
